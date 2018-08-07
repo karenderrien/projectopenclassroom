@@ -1,0 +1,12 @@
+/* Mon fichier CSS */
+
+/*alignement du titre */
+h1{text-align:center;}
+.centrer{text-align:center;}
+
+/*couleur du titre h2*/
+h2{color:gray;}
+
+/* Appliquer une image de fond à la page */
+body{background:yellow;
+	
